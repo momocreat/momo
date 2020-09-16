@@ -1,1 +1,2 @@
-add issue
+* add issue
+* read trend
