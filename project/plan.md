@@ -1,4 +1,4 @@
-[parent](../readme.md)
+[parent](../README.md)
 
 * add issue
 * read trend
