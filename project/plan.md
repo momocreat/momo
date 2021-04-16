@@ -1,4 +1,6 @@
 [parent](../README.md)
 
-* add issue
-* read trend
+* Vue
+* Java
+* springboot
+* 计算机基础
